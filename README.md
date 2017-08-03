@@ -3,7 +3,8 @@
 ## Android Emulator Picker
 
 >Run Android Emulator when I don't fell like to open Android Studio...   
->Which is EVERYTIME! I use VS Emulator at home,  
+>Which is EVERYTIME!   
+>I use VS Emulator at home,  
 >so this will only be effect in office I guess.  
 ---
 * Android Emulator needed
