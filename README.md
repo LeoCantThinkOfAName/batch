@@ -1,6 +1,6 @@
-#Some batch file for boost my workflow
+#Some batch file for boost my workflow#
 
-###Android Emulator Picker
+##Android Emulator Picker##
 
 >Run Android Emulator when I don't fell like to open Android Studio... Which is EVERYTIME! I use VS Emulator at home, so this will only be effect in office I guess.
 ---
@@ -11,7 +11,7 @@
 * Don't be stupid
 ---
 
-###RN-Builder
+##RN-Builder##
 
 >Writting React is some kind of fun, but all the process to generate an apk is a pain in my ass... use this to simply do all the command thingy for my lazyness.
 ---
