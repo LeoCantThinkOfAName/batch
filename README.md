@@ -1,4 +1,4 @@
-# Some batch file to boost my workflow
+# Some batch files to boost my workflow
 
 ## Android Emulator Picker
 
